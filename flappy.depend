@@ -1,0 +1,726 @@
+# depslib dependency file v1.0
+1745734990 source:d:\flappy bird test lai\flappycopy-main\background.cpp
+	"background.h"
+
+1745735464 d:\flappy bird test lai\flappycopy-main\background.h
+	"texture.h"
+	<string>
+	<SDL.h>
+
+1745948858 d:\flappy bird test lai\flappycopy-main\texture.h
+	<SDL.h>
+	<string>
+
+1745736249 source:d:\flappy bird test lai\flappycopy-main\exception.cpp
+	"exception.h"
+	<SDL.h>
+
+1745736368 d:\flappy bird test lai\flappycopy-main\exception.h
+	<string>
+
+1745861584 source:d:\flappy bird test lai\flappycopy-main\music.cpp
+	"music.h"
+	"exception.h"
+
+1745862170 d:\flappy bird test lai\flappycopy-main\music.h
+	<SDL_mixer.h>
+	<string>
+
+1745946922 source:d:\flappy bird test lai\flappycopy-main\pipe.cpp
+	"pipe.h"
+
+1745989529 d:\flappy bird test lai\flappycopy-main\pipe.h
+	"texture.h"
+	<utility>
+	<SDL.h>
+
+1745748290 source:d:\flappy bird test lai\flappycopy-main\player.cpp
+	"player.h"
+	"defs.h"
+	"SDL.h"
+
+1745748797 d:\flappy bird test lai\flappycopy-main\player.h
+	"texture.h"
+
+1746031737 d:\flappy bird test lai\flappycopy-main\defs.h
+
+1745738094 source:d:\flappy bird test lai\flappycopy-main\font.cpp
+	"font.h"
+	"exception.h"
+
+1745739193 d:\flappy bird test lai\flappycopy-main\font.h
+	<SDL_ttf.h>
+	<string>
+
+1746031713 source:d:\flappy bird test lai\flappycopy-main\intro.cpp
+	"intro.h"
+	"mainwindow.h"
+	"defs.h"
+
+1745746303 d:\flappy bird test lai\flappycopy-main\intro.h
+	"defs.h"
+	"texture.h"
+	"background.h"
+	"font.h"
+	"mainwindow.h"
+
+1745860128 d:\flappy bird test lai\flappycopy-main\mainwindow.h
+	<string>
+	<SDL.h>
+
+1746031065 source:d:\flappy bird test lai\flappycopy-main\level.cpp
+	"level.h"
+	"mainwindow.h"
+	"defs.h"
+	<cmath>
+	<string>
+
+1746029159 d:\flappy bird test lai\flappycopy-main\level.h
+	"defs.h"
+	"background.h"
+	"player.h"
+	"music.h"
+	"pipe.h"
+	"texture.h"
+	"font.h"
+	<array>
+	<random>
+
+1746028407 source:d:\flappy bird test lai\flappycopy-main\main.cpp
+	"mainwindow.h"
+	"defs.h"
+	"intro.h"
+	"level.h"
+	"music.h"
+	<SDL.h>
+	<memory>
+
+1745857974 source:d:\flappy bird test lai\flappycopy-main\mainwindow.cpp
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<algorithm>
+
+1745948404 source:d:\flappy bird test lai\flappycopy-main\texture.cpp
+	"texture.h"
+	"font.h"
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1746198082 source:d:\flappy bird test lai 1\flappycopy-main\background.cpp
+	"background.h"
+	"mainwindow.h"
+
+1746199101 d:\flappy bird test lai 1\flappycopy-main\background.h
+	"texture.h"
+	"gamestate.h"
+	<string>
+	<SDL.h>
+
+1745948858 d:\flappy bird test lai 1\flappycopy-main\texture.h
+	<SDL.h>
+	<string>
+
+1745736249 source:d:\flappy bird test lai 1\flappycopy-main\exception.cpp
+	"exception.h"
+	<SDL.h>
+
+1745736368 d:\flappy bird test lai 1\flappycopy-main\exception.h
+	<string>
+
+1745738094 source:d:\flappy bird test lai 1\flappycopy-main\font.cpp
+	"font.h"
+	"exception.h"
+
+1745739193 d:\flappy bird test lai 1\flappycopy-main\font.h
+	<SDL_ttf.h>
+	<string>
+
+1746180302 source:d:\flappy bird test lai 1\flappycopy-main\intro.cpp
+	"intro.h"
+	"mainwindow.h"
+	"defs.h"
+	<SDL.h>
+
+1746181498 d:\flappy bird test lai 1\flappycopy-main\intro.h
+	"defs.h"
+	"texture.h"
+	"background.h"
+	"font.h"
+	"mainwindow.h"
+	"gamestate.h"
+	<SDL.h>
+
+1746198371 d:\flappy bird test lai 1\flappycopy-main\defs.h
+
+1745860128 d:\flappy bird test lai 1\flappycopy-main\mainwindow.h
+	<string>
+	<SDL.h>
+
+1746194165 source:d:\flappy bird test lai 1\flappycopy-main\level.cpp
+	"level.h"
+	"mainwindow.h"
+	"defs.h"
+	"gamestate.h"
+	<cmath>
+	<string>
+
+1746181498 d:\flappy bird test lai 1\flappycopy-main\level.h
+	"defs.h"
+	"background.h"
+	"player.h"
+	"music.h"
+	"pipe.h"
+	"texture.h"
+	"font.h"
+	"gamestate.h"
+	<SDL.h>
+	<array>
+	<random>
+
+1745748797 d:\flappy bird test lai 1\flappycopy-main\player.h
+	"texture.h"
+
+1745862170 d:\flappy bird test lai 1\flappycopy-main\music.h
+	<SDL_mixer.h>
+	<string>
+
+1745989529 d:\flappy bird test lai 1\flappycopy-main\pipe.h
+	"texture.h"
+	<utility>
+	<SDL.h>
+
+1745857974 source:d:\flappy bird test lai 1\flappycopy-main\mainwindow.cpp
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<algorithm>
+
+1745861584 source:d:\flappy bird test lai 1\flappycopy-main\music.cpp
+	"music.h"
+	"exception.h"
+
+1746196234 source:d:\flappy bird test lai 1\flappycopy-main\pipe.cpp
+	"pipe.h"
+
+1746196234 source:d:\flappy bird test lai 1\flappycopy-main\player.cpp
+	"player.h"
+	"defs.h"
+	"SDL.h"
+
+1745948404 source:d:\flappy bird test lai 1\flappycopy-main\texture.cpp
+	"texture.h"
+	"font.h"
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1746109536 source:d:\flappy bird test lai 1\flappycopy-main\main.cpp
+	"mainwindow.h"
+	"defs.h"
+	"intro.h"
+	"level.h"
+	"music.h"
+	<SDL.h>
+	<memory>
+
+1746198183 d:\flappy bird test lai 1\flappycopy-main\gamestate.h
+	<SDL.h>
+
+1746198549 source:d:\flappy bird test lai 1\flappycopy-main\gamestate.cpp
+	"gamestate.h"
+	<SDL.h>
+
+1746509571 source:d:\flappy box\baitapgame-main\background.cpp
+	"background.h"
+	"mainwindow.h"
+
+1746444689 d:\flappy box\baitapgame-main\background.h
+	"texture.h"
+	"gamestate.h"
+	<string>
+	<SDL.h>
+
+1746444690 d:\flappy box\baitapgame-main\texture.h
+	<SDL.h>
+	<string>
+
+1746444689 d:\flappy box\baitapgame-main\gamestate.h
+	<SDL.h>
+
+1746444689 d:\flappy box\baitapgame-main\mainwindow.h
+	<string>
+	<SDL.h>
+
+1746444689 source:d:\flappy box\baitapgame-main\exception.cpp
+	"exception.h"
+	<SDL.h>
+
+1746444689 d:\flappy box\baitapgame-main\exception.h
+	<string>
+
+1746444689 source:d:\flappy box\baitapgame-main\font.cpp
+	"font.h"
+	"exception.h"
+
+1746444689 d:\flappy box\baitapgame-main\font.h
+	<SDL_ttf.h>
+	<string>
+
+1746463335 source:d:\flappy box\baitapgame-main\gamestate.cpp
+	"gamestate.h"
+	<SDL.h>
+
+1746444689 source:d:\flappy box\baitapgame-main\intro.cpp
+	"intro.h"
+	"mainwindow.h"
+	"defs.h"
+	<SDL.h>
+
+1746444689 d:\flappy box\baitapgame-main\intro.h
+	"defs.h"
+	"texture.h"
+	"background.h"
+	"font.h"
+	"mainwindow.h"
+	"gamestate.h"
+	<SDL.h>
+
+1746515619 d:\flappy box\baitapgame-main\defs.h
+
+1746513917 source:d:\flappy box\baitapgame-main\level.cpp
+	"level.h"
+	"mainwindow.h"
+	"defs.h"
+	"gamestate.h"
+	<cmath>
+	<string>
+
+1746515619 d:\flappy box\baitapgame-main\level.h
+	"defs.h"
+	"background.h"
+	"player.h"
+	"music.h"
+	"pipe.h"
+	"texture.h"
+	"font.h"
+	"gamestate.h"
+	<SDL.h>
+	<array>
+	<random>
+	"pumpkin.h"
+
+1746444689 d:\flappy box\baitapgame-main\player.h
+	"texture.h"
+
+1746444689 d:\flappy box\baitapgame-main\music.h
+	<SDL_mixer.h>
+	<string>
+
+1746444689 d:\flappy box\baitapgame-main\pipe.h
+	"texture.h"
+	<utility>
+	<SDL.h>
+
+1746508935 source:d:\flappy box\baitapgame-main\main.cpp
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+	"menu.h"
+	"mainwindow.h"
+	"defs.h"
+	"intro.h"
+	"level.h"
+	"music.h"
+	<SDL.h>
+	<memory>
+	<algorithm>
+
+1746444689 source:d:\flappy box\baitapgame-main\mainwindow.cpp
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<algorithm>
+
+1746444689 source:d:\flappy box\baitapgame-main\music.cpp
+	"music.h"
+	"exception.h"
+
+1746444689 source:d:\flappy box\baitapgame-main\pipe.cpp
+	"pipe.h"
+
+1746444689 source:d:\flappy box\baitapgame-main\player.cpp
+	"player.h"
+	"defs.h"
+	"SDL.h"
+
+1746444690 source:d:\flappy box\baitapgame-main\texture.cpp
+	"texture.h"
+	"font.h"
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1746463086 d:\flappy box\baitapgame-main\menu.h
+	"mainwindow.h"
+	"font.h"
+	"texture.h"
+	"defs.h"
+	<vector>
+	<string>
+	<memory>
+
+1746505993 source:d:\flappy box\baitapgame-main\menu.cpp
+	"menu.h"
+	"mainwindow.h"
+	"font.h"
+	"texture.h"
+	"defs.h"
+	<vector>
+	<string>
+	<memory>
+	<algorithm>
+
+1746515644 d:\flappy box\baitapgame-main\pumpkin.h
+
+1746526623 source:d:\flappy b\unstablesavor-main\background.cpp
+	"background.h"
+	"mainwindow.h"
+
+1746526623 d:\flappy b\unstablesavor-main\background.h
+	"texture.h"
+	"gamestate.h"
+	<string>
+	<SDL.h>
+
+1746526623 d:\flappy b\unstablesavor-main\texture.h
+	<SDL.h>
+	<string>
+
+1746526623 d:\flappy b\unstablesavor-main\gamestate.h
+	<SDL.h>
+
+1746526623 d:\flappy b\unstablesavor-main\mainwindow.h
+	<string>
+	<SDL.h>
+
+1746526623 source:d:\flappy b\unstablesavor-main\exception.cpp
+	"exception.h"
+	<SDL.h>
+
+1746526623 d:\flappy b\unstablesavor-main\exception.h
+	<string>
+
+1746526623 source:d:\flappy b\unstablesavor-main\font.cpp
+	"font.h"
+	"exception.h"
+
+1746526623 d:\flappy b\unstablesavor-main\font.h
+	<SDL_ttf.h>
+	<string>
+
+1746532276 source:d:\flappy b\unstablesavor-main\gamestate.cpp
+	"gamestate.h"
+	<SDL.h>
+
+1746526623 source:d:\flappy b\unstablesavor-main\intro.cpp
+	"intro.h"
+	"mainwindow.h"
+	"defs.h"
+	<SDL.h>
+
+1746526623 d:\flappy b\unstablesavor-main\intro.h
+	"defs.h"
+	"texture.h"
+	"background.h"
+	"font.h"
+	"mainwindow.h"
+	"gamestate.h"
+	<SDL.h>
+
+1746558118 d:\flappy b\unstablesavor-main\defs.h
+
+1746558050 source:d:\flappy b\unstablesavor-main\level.cpp
+	"level.h"
+	"mainwindow.h"
+	"defs.h"
+	"gamestate.h"
+	"music.h"
+	<SDL_mixer.h>
+	<cmath>
+	<string>
+
+1746547743 d:\flappy b\unstablesavor-main\level.h
+	"defs.h"
+	"background.h"
+	"player.h"
+	"music.h"
+	"pipe.h"
+	"texture.h"
+	"font.h"
+	"gamestate.h"
+	<SDL.h>
+	<array>
+	<random>
+	"pumpkin.h"
+
+1746533077 d:\flappy b\unstablesavor-main\player.h
+	"texture.h"
+
+1746550980 d:\flappy b\unstablesavor-main\music.h
+	<SDL_mixer.h>
+	<string>
+
+1746529386 d:\flappy b\unstablesavor-main\pipe.h
+	"texture.h"
+	<utility>
+	<SDL.h>
+
+1746532079 d:\flappy b\unstablesavor-main\pumpkin.h
+	"texture.h"
+	<SDL.h>
+
+1746556682 source:d:\flappy b\unstablesavor-main\main.cpp
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+	"menu.h"
+	"mainwindow.h"
+	"defs.h"
+	"intro.h"
+	"level.h"
+	"music.h"
+	<SDL.h>
+	<memory>
+	<algorithm>
+
+1746550790 d:\flappy b\unstablesavor-main\menu.h
+	"mainwindow.h"
+	"font.h"
+	"texture.h"
+	"defs.h"
+	"music.h"
+	<vector>
+	<string>
+	<memory>
+
+1746526623 source:d:\flappy b\unstablesavor-main\mainwindow.cpp
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<algorithm>
+
+1746551022 source:d:\flappy b\unstablesavor-main\menu.cpp
+	"menu.h"
+	"mainwindow.h"
+	"font.h"
+	"texture.h"
+	"defs.h"
+	<vector>
+	<string>
+	<memory>
+	<algorithm>
+
+1746551007 source:d:\flappy b\unstablesavor-main\music.cpp
+	"music.h"
+	"exception.h"
+
+1746526623 source:d:\flappy b\unstablesavor-main\pipe.cpp
+	"pipe.h"
+
+1746533077 source:d:\flappy b\unstablesavor-main\player.cpp
+	"player.h"
+	"defs.h"
+	"SDL.h"
+
+1746526623 source:d:\flappy b\unstablesavor-main\texture.cpp
+	"texture.h"
+	"font.h"
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1746545160 source:d:\flappy b\unstablesavor-main\pumpkin.cpp
+	"pumpkin.h"
+
+1746564068 source:d:\ihavecode\stableone-main\background.cpp
+	"background.h"
+	"mainwindow.h"
+
+1746564692 d:\ihavecode\stableone-main\background.h
+	"texture.h"
+	"gamestate.h"
+	<string>
+	<SDL.h>
+
+1746564765 d:\ihavecode\stableone-main\texture.h
+	<SDL.h>
+	<string>
+
+1746564692 d:\ihavecode\stableone-main\gamestate.h
+	<SDL.h>
+
+1746564765 d:\ihavecode\stableone-main\mainwindow.h
+	<string>
+	<SDL.h>
+
+1746563914 source:d:\ihavecode\stableone-main\gamestate.cpp
+	"gamestate.h"
+	<SDL.h>
+
+1746564435 source:d:\ihavecode\stableone-main\font.cpp
+	"font.h"
+	"exception.h"
+
+1746564765 d:\ihavecode\stableone-main\font.h
+	<SDL_ttf.h>
+	<string>
+
+1746564692 d:\ihavecode\stableone-main\exception.h
+	<string>
+
+1746564435 source:d:\ihavecode\stableone-main\intro.cpp
+	"intro.h"
+	"mainwindow.h"
+	"defs.h"
+	<SDL.h>
+
+1746564692 d:\ihavecode\stableone-main\intro.h
+	"defs.h"
+	"texture.h"
+	"background.h"
+	"font.h"
+	"mainwindow.h"
+	"gamestate.h"
+	<SDL.h>
+
+1746564765 d:\ihavecode\stableone-main\defs.h
+
+1746564435 source:d:\ihavecode\stableone-main\level.cpp
+	"level.h"
+	"mainwindow.h"
+	"defs.h"
+	"gamestate.h"
+	"music.h"
+	<SDL_mixer.h>
+	<cmath>
+	<string>
+
+1746564692 d:\ihavecode\stableone-main\level.h
+	"defs.h"
+	"background.h"
+	"player.h"
+	"music.h"
+	"pipe.h"
+	"texture.h"
+	"font.h"
+	"gamestate.h"
+	<SDL.h>
+	<array>
+	<random>
+	"pumpkin.h"
+
+1746564765 d:\ihavecode\stableone-main\player.h
+	"texture.h"
+
+1746564765 d:\ihavecode\stableone-main\music.h
+	<SDL_mixer.h>
+	<string>
+
+1746564765 d:\ihavecode\stableone-main\pipe.h
+	"texture.h"
+	<utility>
+	<SDL.h>
+
+1746564765 d:\ihavecode\stableone-main\pumpkin.h
+	"texture.h"
+	<SDL.h>
+
+1746564435 source:d:\ihavecode\stableone-main\main.cpp
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+	"menu.h"
+	"mainwindow.h"
+	"defs.h"
+	"intro.h"
+	"level.h"
+	"music.h"
+	<SDL.h>
+	<memory>
+	<algorithm>
+
+1746564692 d:\ihavecode\stableone-main\menu.h
+	"mainwindow.h"
+	"font.h"
+	"texture.h"
+	"defs.h"
+	"music.h"
+	<vector>
+	<string>
+	<memory>
+
+1746564435 source:d:\ihavecode\stableone-main\mainwindow.cpp
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<algorithm>
+
+1746564435 source:d:\ihavecode\stableone-main\menu.cpp
+	"menu.h"
+	"mainwindow.h"
+	"font.h"
+	"texture.h"
+	"defs.h"
+	<vector>
+	<string>
+	<memory>
+	<algorithm>
+
+1746564435 source:d:\ihavecode\stableone-main\music.cpp
+	"music.h"
+	"exception.h"
+
+1746564435 source:d:\ihavecode\stableone-main\pipe.cpp
+	"pipe.h"
+
+1746564435 source:d:\ihavecode\stableone-main\player.cpp
+	"player.h"
+	"defs.h"
+	"SDL.h"
+
+1746564435 source:d:\ihavecode\stableone-main\pumpkin.cpp
+	"pumpkin.h"
+
+1746564435 source:d:\ihavecode\stableone-main\texture.cpp
+	"texture.h"
+	"font.h"
+	"mainwindow.h"
+	"exception.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1746564445 source:d:\ihavecode\stableone-main\exception.cpp
+	"exception.h"
+	<SDL.h>
+
